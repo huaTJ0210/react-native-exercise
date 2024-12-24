@@ -5,4 +5,9 @@
 ### 2. 安装
 
 > yarn
+
 > npx pod-install ios -- 安装 ios 的依赖
+
+### 3. 运行
+
+> yarn run ios
